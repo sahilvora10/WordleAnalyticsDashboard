@@ -14,6 +14,7 @@
 ![alt text](images/MobileView.gif)
 
 ### Contact for more Information
-[Twitter](https://twitter.com/sahilvora1011)
-[LinkedIn](https://www.linkedin.com/in/sahil-vora/)
+- [Twitter](https://twitter.com/sahilvora1011)
+- [LinkedIn](https://www.linkedin.com/in/sahil-vora/)
+- [Email](mailto:sahilvora0409@gmail.com)
 
