@@ -7,5 +7,6 @@
 
 # Dashboard Screenshots
 
-
+#### Desktop View
+![alt text](images/DesktopView.gif)
 
